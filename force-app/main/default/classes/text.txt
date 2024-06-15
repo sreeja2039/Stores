@@ -1,0 +1,13 @@
+org Authentication data
+
+Access Token     00D5g00000IrtpX!ARYAQH.gbCPeTUJBnaxBtABgaNxkpyiEnWlQVZHKA8Smg1cSgF3GOs0cTjvk167gAybrXVyKcn20nD1gqHXta0aWLsf1k.y.
+ Access Token     00D5g00000IrtpX!ARYAQH.gbCPeTUJBnaxBtABgaNxkpyiEnWlQVZHKA8Smg1cSgF3GOs0cTjvk167gAybrXVyKcn20nD1gqHXta0aWLsf1k.y.
+
+ Instance Url     https://srcom8-dev-ed.develop.my.salesforce.com
+
+ Alias            stores-service
+ Api Version      60.0
+ Client Id        PlatformCLI
+ Connected Status Connected
+ Id               00D5g00000IrtpXEAR
+ Username         sreej@sr.com
